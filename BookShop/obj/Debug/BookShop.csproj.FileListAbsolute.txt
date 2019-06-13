@@ -1,0 +1,324 @@
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\ApplicationInsights.config
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\BookShop.dll.config
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\BookShop.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\BookShop.pdb
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Antlr3.Runtime.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\EntityFramework.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Newtonsoft.Json.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Owin.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.Helpers.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.Mvc.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.Optimization.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.Razor.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.WebPages.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\WebGrease.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.Helpers.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.Mvc.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.Optimization.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.Razor.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.WebPages.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Newtonsoft.Json.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\EntityFramework.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.dll
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.pdb
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.Migrations.intial.resources
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedBooksTable.resources
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.Migrations.DeleteCustomerId.resources
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.Migrations.DeletedMobile.resources
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedBookSpecTable.resources
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedSpecTable.resources
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedSpecTable1.resources
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedOrderAndOrderrowTables.resources
+C:\Users\George\Desktop\asp work\BookShop\BookShop\obj\Debug\BookShop.Migrations.updateOrdertotaldataType.resources
+C:\Users\George\OneDrive\BookShop\BookShop\bin\ApplicationInsights.config
+C:\Users\George\OneDrive\BookShop\BookShop\bin\BookShop.dll.config
+C:\Users\George\OneDrive\BookShop\BookShop\bin\BookShop.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\BookShop.pdb
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Antlr3.Runtime.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\EntityFramework.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Newtonsoft.Json.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Owin.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.Helpers.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.Mvc.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.Optimization.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.Razor.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.WebPages.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\WebGrease.dll
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.Helpers.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.Mvc.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.Optimization.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.Razor.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.WebPages.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Newtonsoft.Json.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\EntityFramework.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\George\OneDrive\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.Migrations.intial.resources
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedBooksTable.resources
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.Migrations.DeleteCustomerId.resources
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.Migrations.DeletedMobile.resources
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedBookSpecTable.resources
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedSpecTable.resources
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedSpecTable1.resources
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedOrderAndOrderrowTables.resources
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.Migrations.updateOrdertotaldataType.resources
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.dll
+C:\Users\George\OneDrive\BookShop\BookShop\obj\Debug\BookShop.pdb
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\ApplicationInsights.config
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\BookShop.dll.config
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\BookShop.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\BookShop.pdb
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Antlr3.Runtime.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\EntityFramework.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Newtonsoft.Json.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Owin.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.Helpers.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.Mvc.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.Optimization.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.Razor.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.WebPages.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\WebGrease.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.Helpers.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.Mvc.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.Optimization.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.Razor.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.WebPages.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Newtonsoft.Json.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\EntityFramework.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\obj\Debug\BookShop.Migrations.intial.resources
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedBooksTable.resources
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\obj\Debug\BookShop.Migrations.DeleteCustomerId.resources
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\obj\Debug\BookShop.Migrations.DeletedMobile.resources
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedBookSpecTable.resources
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedSpecTable.resources
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedSpecTable1.resources
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedOrderAndOrderrowTables.resources
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\obj\Debug\BookShop.Migrations.updateOrdertotaldataType.resources
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\obj\Debug\BookShop.dll
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\obj\Debug\BookShop.pdb
+\\stoeaf01.res.dernet.travel\redirected$\805342\Desktop\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.Migrations.intial.resources
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedBooksTable.resources
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.Migrations.DeleteCustomerId.resources
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.Migrations.DeletedMobile.resources
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedBookSpecTable.resources
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedSpecTable.resources
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedSpecTable1.resources
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.Migrations.AddedOrderAndOrderrowTables.resources
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.Migrations.updateOrdertotaldataType.resources
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.dll
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.pdb
+D:\Projects\BookShop\BookShop\bin\ApplicationInsights.config
+D:\Projects\BookShop\BookShop\bin\BookShop.dll.config
+D:\Projects\BookShop\BookShop\bin\BookShop.dll
+D:\Projects\BookShop\BookShop\bin\BookShop.pdb
+D:\Projects\BookShop\BookShop\bin\Antlr3.Runtime.dll
+D:\Projects\BookShop\BookShop\bin\EntityFramework.dll
+D:\Projects\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\BookShop\BookShop\bin\Newtonsoft.Json.dll
+D:\Projects\BookShop\BookShop\bin\Owin.dll
+D:\Projects\BookShop\BookShop\bin\System.Web.Helpers.dll
+D:\Projects\BookShop\BookShop\bin\System.Web.Mvc.dll
+D:\Projects\BookShop\BookShop\bin\System.Web.Optimization.dll
+D:\Projects\BookShop\BookShop\bin\System.Web.Razor.dll
+D:\Projects\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\BookShop\BookShop\bin\System.Web.WebPages.dll
+D:\Projects\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+D:\Projects\BookShop\BookShop\bin\WebGrease.dll
+D:\Projects\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\BookShop\BookShop\bin\System.Web.Helpers.xml
+D:\Projects\BookShop\BookShop\bin\System.Web.Mvc.xml
+D:\Projects\BookShop\BookShop\bin\System.Web.Optimization.xml
+D:\Projects\BookShop\BookShop\bin\System.Web.Razor.xml
+D:\Projects\BookShop\BookShop\bin\System.Web.WebPages.xml
+D:\Projects\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+D:\Projects\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+D:\Projects\BookShop\BookShop\bin\Newtonsoft.Json.xml
+D:\Projects\BookShop\BookShop\bin\EntityFramework.xml
+D:\Projects\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+D:\Projects\BookShop\BookShop\obj\Debug\BookShop.csproj.CopyComplete

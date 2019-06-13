@@ -1,0 +1,39 @@
+﻿@model IEnumerable<BookShop.Models.BookViewModel>
+
+
+@{
+    ViewBag.Title = "List of Books";
+}
+
+<div class="Book-List">
+
+
+
+    @foreach (var item in Model)
+            {
+        <div class="col-sm-4">
+            <img class="Img-Style" src="@item.ImageUrl" width="116" height="182" />
+            <br />
+            <br />
+            <div>
+                <h4 class="title">@item.Title</h4>
+            </div>
+            <div class="Item-Description">
+                @item.Description
+            </div>
+            <br />
+            <div class="Price">
+                <strong>@item.Price</strong>
+            </div>
+            <br />
+            <button type="button" id="@item.Id" class="btn btn-default add-to-cart">
+                Add To Cart
+            </button>
+            <br />
+            <br />
+        </div>
+    }
+
+
+</div>
+<div class="clearfix"></div>

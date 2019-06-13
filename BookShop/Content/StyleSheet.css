@@ -1,0 +1,48 @@
+﻿
+
+
+
+#cartTable td {
+    vertical-align: middle;
+}
+
+.Book-List {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Img-Style {
+    box-shadow: 0 0 1px 1px rgba(0,0,0,0.05);
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+}
+
+.title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-wrap: normal;
+}
+
+.Item-Description {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-wrap: normal;
+}
+
+.Price {
+    color: #f14c04;
+}
+
+.add-to-cart {
+    background-color:#f60;
+    background: linear-gradient(to bottom,#ff7d27 0,#f14c04 100%);
+    border-color: #eb3f03;
+    color: #fff !important;
+}
+
+.Footer {
+    text-align: center;
+}
